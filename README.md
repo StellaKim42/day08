@@ -13,3 +13,6 @@ Start to learn how to use git
 # How to use git when collaborate
 1. PLEASE PULL THE LATEST GIT BEFORE WORKING, or you may lose your data.
 2. If there any comflicts, notity me.
+
+# Create new branch
+1. If you want to add new code, using branch.

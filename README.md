@@ -9,7 +9,6 @@ Start to learn how to use git
 5. git add .
 6. git commit -m ""
 7. git push
-7. git push
 
 # How to use git when collaborate
 1. PLEASE PULL THE LATEST GIT BEFORE WORKING, or you may lose your data.

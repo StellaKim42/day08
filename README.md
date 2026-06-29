@@ -1,2 +1,2 @@
-# day08
-submit-day08
+# Studying git
+Start to learn how to use git
